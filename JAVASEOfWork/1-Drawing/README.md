@@ -12,19 +12,18 @@
 
 搜索结果如下：
 
-![](../images/3-windowbuilder配置-eclipseMarket.png)
-
+![3-windowbuilder配置-eclipseMarket.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7fyj6cuyj30ni0ffq3p.jpg)
 
 
 ​	点击 **install**然后等待一会，持续下一步即可。最好将eclipse更新为最新版本，以便出现不必要的错误！！！
 
 根据提示重启之后，新建项目->其他->WindowBuilder,如下图即配置成功！！！
 
-![](../images/3-windowbuilder配置-新建检验.png)
+![3-windowbuilder配置-新建检验.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7fyrrbuyj30gu0cdjrp.jpg)
 
 ## 开启HelloWorld之路
 
 ​	尚未完成所有功能，只是搭了一个基础的架子。革命还需努力！！！
 
-![](../images/测试.png)
+![3-windowbuilder配置-新建检验.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7fz13u16j30gu0cdjrp.jpg)
 

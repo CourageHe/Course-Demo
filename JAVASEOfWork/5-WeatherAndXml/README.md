@@ -280,7 +280,7 @@ System.out.println(sb.toString());
 
 &emsp;&emsp;打开谷歌的开发者工具，进入network选项，并在地址栏输入所需网址便可查找到如下图：
 
-![获取请求文件编码](..\images\5-获取请求文件编码.png)
+![5-获取请求文件编码.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7g1542y4j30pk0jlmzi.jpg)
 
 ##### 2.2.2 保存文件
 
@@ -462,9 +462,9 @@ public static String xmljsonString() throws JSONException, IOException {
 
 效果图首页：
 
-![](..\images\5-天气查询首页.png)
+![5-天气查询首页.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7fuotr4xj30h00a43z2.jpg)
 
 **效果图结果页**
+![5-天气查询结果页.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7ft9axdej30o40shta4.jpg)
 
-![](..\images\5-天气查询结果页.png)
 

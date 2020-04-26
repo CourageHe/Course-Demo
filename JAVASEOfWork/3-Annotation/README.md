@@ -244,6 +244,6 @@ StringBuffer增加字符串用时：1120毫秒
 
 + 字面常量
 
-![](../images/3.3-String资源分配.png)
+![3.3-String资源分配.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7g0a97hjj30lm0boglp.jpg)
 
 ## [三、作业要求代码实现](./src/com/couragehe/homework)

@@ -6,8 +6,7 @@
 
 &emsp;&emsp;JDBC（**J**ava DataBase Connectivity）是Java和数据库之间的一个桥梁，是一个规范而不是一个实现，能够执行SQL语句。它由一组用[Java语言](https://baike.baidu.com/item/Java语言)编写的类和接口组成。
 
-![5.2JDBC示意图](../images/5.2JDBC示意图.png)
-
+![5.2JDBC示意图.png](http://ww1.sinaimg.cn/large/0083sXMXgy1ge7fwkcbdej30jn07b74t.jpg)
 ### 二、数据库的连接
 
 #### 1、导入专用的jar包
