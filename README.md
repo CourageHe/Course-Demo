@@ -39,3 +39,5 @@
 
 ## 疫情期间下学期
 ### [9、单一职责原则](9-SingleDuty)
+
+### [10、工厂方法模式](10-FactoryMethodMode)
