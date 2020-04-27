@@ -42,10 +42,22 @@
 ### [数据库结课作业](./SqlServerOfWork)
 
 
-# 疫情期间下学期
+## <u>疫情期间下学期</u>
 
-### 设计模式代码实现
+## 设计模式代码实现
 
-### [9、单一职责原则](./DesignPattern/9-SingleDuty)
+### 创建型设计模式
 
-### [10、工厂方法模式](./DesignPattern/10-FactoryMethodMode)
+#### [1、抽象工厂模式](./DesignPattern/1-AbstractFactory)
+
+#### [2、工厂方法模式](./DesignPattern/2-FactoryMethodMode)
+
+#### [3、建造者模式](./DesignPattern/3-Builder)
+
+#### [4、单例模式](./DesignPattern/4-SingleDuty)
+
+#### [5、原型模式](./DesignPattern/5-Prototype)
+
+
+#### [9、单一职责原则](./DesignPattern/4-SingleDuty)
+
