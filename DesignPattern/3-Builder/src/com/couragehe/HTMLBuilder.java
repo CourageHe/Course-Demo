@@ -15,7 +15,7 @@ public class HTMLBuilder extends Builder{
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		writer.print("<html><head><title>"+title+"</title></head>\n");
+		writer.print("<html><head><title>"+title+"</title></head><body>\n");
 		writer.print("<h1>"+title+"</h1>\n");
 	}
 	@Override
